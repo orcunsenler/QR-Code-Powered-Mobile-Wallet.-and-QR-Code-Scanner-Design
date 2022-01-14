@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import ttk
 import tkinter as tk
 import tkinter.font
-import base64
 import cv2
 import sys
 import urllib.request as urllib2
